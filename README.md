@@ -1,55 +1,47 @@
 # Mostafa Khrais
 
-**Full-stack developer · Gaza, Palestine**
+Full-stack developer in Gaza, Palestine. Studying Mobile Application Design
+and Development at UCAS.
 
-I design and deliver complete web and Android solutions, from the user interface
-down to the database. I am a Mobile Application Design and Development student
-at the University College of Applied Sciences (UCAS), and I take projects from
-the first sketch to a live, working product.
+I build websites and Android apps, from the interface to the database. Most of
+my work is in Arabic or bilingual, so right-to-left layout and Arabic typography
+are part of the build from the start.
 
-## Featured work
+## Work
 
-### We Are Still Here | Baqoun — [wearestillhere.uk](https://wearestillhere.uk)
-The website of a Palestinian student-led initiative that supports university
-students in Gaza. I designed and built the whole site and its backend. It is
-bilingual (English and Arabic), with a contact form, a double opt-in newsletter,
-a news and events section, and a secure admin panel. It runs on Cloudflare Pages
-and D1, with abuse protection and privacy-first handling of visitor data.
-`HTML` `Tailwind CSS` `JavaScript` `Cloudflare Pages` `D1`
+**We Are Still Here | Baqoun** · [wearestillhere.uk](https://wearestillhere.uk)
+Website for a student-led initiative supporting university students in Gaza.
+I built all of it: English and Arabic pages, a contact form, a newsletter with
+email confirmation, a news section and an admin panel. Runs on Cloudflare Pages
+and D1.
 
-### Deema Academy — [deema-lemon.vercel.app](https://deema-lemon.vercel.app)
-An Arabic (RTL) academy website with user accounts, course registration,
-certificates, and an admin dashboard. Static-first for speed, with database-level
-access control and a strict security policy.
-`Astro` `TypeScript` `Supabase` `Vercel`
+**Deema Academy** · [deema-lemon.vercel.app](https://deema-lemon.vercel.app)
+Arabic website for an academy. User accounts, course registration, certificates
+and an admin dashboard, with access rules enforced in the database.
+Astro, TypeScript, Supabase.
 
-### Seoul Motors — in development
-A bilingual (Arabic / English) marketplace for Korean cars, aimed at Arab buyers.
-It includes a REST API with filtering and search, an automated listing-sync engine
-with safeguards against bad source data, an image pipeline, an admin API, and a
-Flutter Android app. The backend is working and tested; the mobile app and admin
-panel are the next milestones.
-`NestJS` `PostgreSQL` `Prisma` `Redis` `Docker` `Flutter`
+**Seoul Motors** · in development
+Arabic and English marketplace for Korean used cars. The backend works: an API
+with filtering and search, a sync engine that imports listings and refuses to
+remove stock when the source feed looks broken, image processing, and an admin
+API. The Flutter Android app is written and not yet tested on a device.
+NestJS, PostgreSQL, Prisma, Redis, Docker, Flutter.
 
 ## Other projects
 
-- **Manara** — an educational Android app for Tawjihi students, with offline books,
-  past exams and summaries, backed by Supabase and a companion website.
-  `Java` `Room` `Retrofit` `Supabase`
-- **Patagonia** — an end-to-end tourism website delivered for a client, with a
-  database-backed tour catalogue. `HTML` `CSS` `JavaScript`
+- Manara: Android app in Java for
+  Tawjihi students. Books, past exams and summaries that can be downloaded and
+  read offline. Supabase backend and a companion website.
+- Patagonia: tourism website built for a client in 2025, including the backend
+  and database. See my [portfolio](https://portfolio-mostafa-eight.vercel.app).
 
-## Skills
+## Stack
 
-**Web:** HTML, CSS, JavaScript, TypeScript, Astro, Tailwind CSS  
-**Mobile:** Flutter, Java (Android)  
-**Backend and data:** Node.js, NestJS, PostgreSQL, Prisma, Supabase, Cloudflare D1  
-**Tools:** Git, Docker, GitHub Actions, UI/UX design for web and mobile
+Web: HTML, CSS, JavaScript, TypeScript, Astro, Tailwind CSS  
+Mobile: Flutter, Java (Android)  
+Backend: Node.js, NestJS, PostgreSQL, Prisma, Supabase, Cloudflare D1  
+Tools: Git, Docker, GitHub Actions
 
-## Languages
+Arabic (native), English (intermediate).
 
-Arabic (native) · English (intermediate)
-
-## Contact
-
-🌐 Portfolio: [portfolio-mostafakhrais.vercel.app](https://portfolio-mostafakhrais.vercel.app)
+[Portfolio](https://portfolio-mostafa-eight.vercel.app)
